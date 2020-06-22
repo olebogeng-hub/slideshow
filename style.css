@@ -1,0 +1,176 @@
+
+.container {
+   position: absolute;
+    left: 25%;
+}
+
+.header {
+    display:flex;
+    
+}
+
+h2{
+    padding-top: 5%;
+    padding-left: 4%;
+}
+.first-slider{
+   
+  margin-top:3%;
+  text-transform: uppercase;
+
+ 
+}
+.skill_grid {
+    display: grid;
+    grid-template-columns: repeat(5, 30%);
+}
+
+i{
+    font-size:40px ;
+}
+
+#work-experince{
+   
+    position: absolute;
+    left: 10%;
+    
+}
+
+
+
+
+.small-details{
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.dot {
+    width: 15px;
+    height: 15px;
+    background-color: aqua;
+    border-radius: 50%;
+    display: block;
+}
+
+.line{
+    border-left: 2px solid aqua;
+    margin-left:6px;
+    display:block;
+    height:400px;
+}
+.rr{
+	color:yellow;
+}
+
+.image{
+
+	border-radius:55%;
+
+	width:20%;
+
+	margin:auto;
+	display:inline-block;
+    background-color:white;
+	padding:0.5em;
+	border:1.5px solid black;
+
+
+}
+
+.center{
+	
+width:30px;
+	border-radius:50%;
+
+	float:right;
+	margin-right: 50px;
+	
+	clear:both;
+margin:auto;
+	
+}
+.gg{
+width:10%;
+     
+	padding-top:30px;
+	margin:auto;
+	
+}
+h{
+	text-shadow: 2px 4px white;
+	
+	
+}
+nav{
+	
+ text-align:center;
+ padding-bottom:20px;
+}
+
+.center1{
+	text-align:center;
+	list-style-position:inside;
+	color:black;
+	font-size:20px;
+}
+ol.center1 li{
+	
+	
+	text-align:left;
+	margin-left:41%;
+}
+
+
+.center2{
+	text-align:center;
+	list-style-position:inside;
+	color:black;
+	font-size:25px;
+	
+	
+}
+ul.center2 li{
+	
+	
+	text-align:left;
+	margin-left:25%;
+	
+}
+
+
+.center3{
+	text-align:center;
+	list-style-position:inside;
+	color:black;
+	font-size:20px;
+	
+}
+ul.center3 li{
+	
+	
+	text-align:center;
+	margin-left:1%;
+	display:inline;
+	padding :10px 10px 10px 10px;
+	
+
+
+}
+.padding{
+	
+	margin-left:0%;
+}
+h{
+	text-shadow: 5px 5px black;
+}
+
+
+
+
+
+
+
+
+
